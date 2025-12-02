@@ -1,0 +1,8 @@
+{
+  "name": "Copy of HypeIt - AI Marketing Studio",
+  "description": "An all-in-one AI-powered marketing platform for UMKM featuring content planning, visual generation, strategy analysis, and live streaming tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
