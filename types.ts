@@ -60,3 +60,16 @@ export interface AnalysisResult {
     format: string;
     improvements: string;
 }
+
+export interface VideoTutorial {
+    id: string;
+    title: string;
+    duration: string;
+    thumbnail: string; // CSS gradient class
+    views: string;
+}
+
+export interface FAQItem {
+    q: string;
+    a: string;
+}
